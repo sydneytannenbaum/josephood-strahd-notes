@@ -1,0 +1,1 @@
+The dwelling of the Devil, [Strahd von Zarovich](../NPCs/Strahd%20von%20Zarovich.md).

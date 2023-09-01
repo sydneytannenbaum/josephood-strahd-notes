@@ -1,1 +1,1 @@
-A church in [[Vallaki]].
+A church in [Vallaki](Vallaki.md).

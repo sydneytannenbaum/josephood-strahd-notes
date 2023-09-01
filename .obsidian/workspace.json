@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/session 1.md",
+                "file": "Sessions/session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc6ede0c95d67963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c507c23fae81f5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Barovia Village.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/session 1.md",
+                "file": "Places/Barovia Village.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/session 1.md",
+                "file": "Places/Barovia Village.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/session 1.md"
+                "file": "Places/Barovia Village.md"
               }
             }
           }
@@ -203,31 +227,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a465acd829d17d10",
+  "active": "c507c23fae81f5d6",
   "lastOpenFiles": [
-    "PCs/Jasper.md",
-    "PCs/Areia Wick.md",
-    "Sessions/session 1.md",
-    "PCs/Oliver.md",
-    "NPCs/Father Donavich.md",
-    "Sessions",
-    "PCs/Quiyra Sheldrar.md",
-    "NPCs/Doru.md",
-    "PCs",
-    "Sessions/session 3.md",
+    "NPCs/Arik.md",
     "Sessions/session 2.md",
-    "Dates.md",
-    "NPCs/Madam Eva.md",
-    "NPCs/Ismark Kolyanovich.md",
-    "NPCs/Kolyan Antonovich.md",
+    "Sessions/session 3.md",
+    "Places/Blood of the Vine.md",
+    "PCs/Jasper.md",
+    "Places/Tser Pool.md",
+    "NPCs/Ireena Kolyana.md",
+    "Sessions/session 1.md",
+    "Places/Vallaki.md",
+    "Places/Church of Saint Andral.md",
+    "Places/Castle Ravenloft.md",
+    "NPCs/Strahd von Zarovich.md",
     "Places/Barovia Village.md",
     "Places/Abbey of Saint Markovia.md",
-    "Places/Church of Saint Andral.md",
-    "Places/Vallaki.md",
+    "PCs/Quiyra Sheldrar.md",
+    "PCs/Oliver.md",
+    "PCs/Areia Wick.md",
+    "NPCs/Madam Eva.md",
+    "NPCs/Kolyan Antonovich.md",
+    "NPCs/Ismark Kolyanovich.md",
     "NPCs/Gertruda.md",
-    "Places/Tser Pool.md",
+    "NPCs/Father Donavich.md",
+    "NPCs/Doru.md",
+    "Sessions",
+    "PCs",
+    "Dates.md",
     "Places",
-    "NPCs/Ireena Kolyana.md",
     "elfhame druid token.png",
     "NPCs"
   ]

@@ -1,4 +1,4 @@
-Roommate of [Areia Wick](PCs/Areia%20Wick.md), before they came to Barovia.
+Roommate of [Areia Wick](Areia%20Wick.md), before they came to Barovia.
 
 A priest of some sort, devoted to Kelemvor.
 

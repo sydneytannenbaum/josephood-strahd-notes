@@ -1,0 +1,1 @@
+Bartender and innkeeper of the [Blood of the Vine](../Places/Blood%20of%20the%20Vine.md) tavern.

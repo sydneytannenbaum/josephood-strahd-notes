@@ -1,1 +1,1 @@
-The burgomaster of [[Barovia Village]], until he was killed by the undead attacks on -7d. Informally succeeded by his son [[Ismark Kolyanovich]].
+The burgomaster of [Barovia Village](../Places/Barovia%20Village.md), until he was killed by the undead attacks on -7d. Informally succeeded by his son [Ismark Kolyanovich](Ismark%20Kolyanovich.md).
