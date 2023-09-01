@@ -1,0 +1,71 @@
+## Day 0 (still²)
+we're all sitting at a table as the guy approaches
+tavern's quite pretty and tidy
+
+man's around 30, white shoulder length hair, sharp features, tired eyes but not a tired vibe overall. dressed in fine clothes for barovian standards, leather armor (which nobody else we saw had) and a longsword on right hip.
+
+His name: [Ismark Kolyanovich](NPCs/Ismark%20Kolyanovich.md). he can tell we're not from around here. he offers us some drinks.; we accept, oliver aside (he doesnt drink). he asks what brings us here; business. where are we from? q: has he heard of toril? yeah. he's spoken to other outsiders, all from Toril, heard some comparisons: other places more colorful, safer? kinda, we have bad places too. Areia speaks of Westgate, her home town.
+he apologizes for the state of the village rn. they're working on fixing things. how much do we know? we know who rules here. is it ok to say strahd's name? ismark isn't sure, but we decide we should avoid it. people call him the Devil. he has spies: mostly bats, wolves; some humans.
+
+a woman enters, tattered&threadbare cloak. hair in loops falling around neck. hair quite tangled and unkempt. wide eyes dart fearfully across the room. she steps toward ismark, and as she steps into the hearthlight we see her face is quite pale and blotchy, dried tears. ragged voice, whispering: burgomaster kolyanovich, i apologize for interrupting you and your guests. i need your help.
+ismark greets her (she's [Mary](NPCs/Mary.md)). he's not yet burgomaster, but asks how he can help. "it's Gertruda: I  think she's gone to the castle". at these words, the tavern falls silent. ismark reels, worried. he offers condolences and promises to organize a search party. she looks at us, then turns her head and leaves swiftly.
+
+we ask whats up. Ismark braces himself, sighs, explains: the castle is where the Devil dwells. 3 months ago, gertrude's boyfriend - Doru - led a revolt against castle ravenloft and never returned. (as he speaks, we get our drinks). shortly after, a dusk elf named Rahdin delivered a warning to the village. the villagers had 90 days to make peace with their gods. some fled to Vallaki, a fortified city some ways away. but most stayed. 2 weeks ago he made good on his threat, released a horde of undead. they held out for a week, but then the barricades broke and Ismark's father, burgomaster [Kolyan Antonovich](NPCs/Kolyan%20Antonovich.md), died. His daughter(?) went to look for Doru.
+
+He asks about our business/plans here: visit the Vistani camp at [Tser Pool](Places/Tser%20Pool.md), see [Madam Eva](NPCs/Madam%20Eva.md). He doesn't know who Madam Eva is.
+
+he asks: since we're going west anyway, could we escort his sister Ireena to vallaki? it's not safe for her, much better that she live in the [Church of Saint Andral](Places/Church%20of%20Saint%20Andral.md) in [Vallaki](Places/Vallaki.md) which is hallowed ground. he would go himself, but with his father's death, he needs to stay here and keep things together. we understand this and accept.
+
+He asks if we'll discuss this somewhere else: his house? we've finished our drinks, so we go. south, toward a quite large house. it's a mansion, behind a rusted iron fence. the gates are twisted and torn, especially the right one which is almost ripped off its hinges. the garden is untamed, full of weeds. house has claw markings stripping off the finish of the walls, black scorch marks, barely any glass in the windows because they're all boarded up.
+
+he knocks on the door. female voice asks who it is, ismark identifies himself. door opens, we're invited in. inside we see it's well-furnished, but there are signs of wear. noticeable oddities: boarded-up windows, abandoned holy symbols (Lathander, a sunrise; a few other good-aligned deities: Tyr, Ilmater, Sune) in every room, a wooden coffin surrounded by wilting flowers and a faint odor of decay near the entrance.
+
+the owner of the voice smiles at us and greets us. she's [Ireena Kolyana](NPCs/Ireena%20Kolyana.md), Ismark's sister. quite elegant figure. she gives us a small respectful bow. wearing intricate metal armor, a thick red scarf and sash, shortsword at her hip. we introduce ourselves, to ismark as well since we forgot. ismark nervously explains that we've accepted the task of traveling to Vallaki. She stares at him and asks us to excuse them. we speculate that they're not quite on the same page regarding this escort mission. We sit down and make small talk.
+
+Quiyra keeps her ears pricked for the siblings' conversation: Ireena has a voice sharp with indignation, he can't just decide to send her away without consulting her! his reply, measured but worried: ?? still has his sights set on her, and even if she doens't believe the rumors others might. barovia isn't safe! she doesn't want to abandon her neighbors. he says: gertrude's gone! they sob. ireena says she told gertrude to accept that doru's dead, but... . ismark says, hesitant: others need her help. the neighbors who fled for vallaki. they need guidance, perhaps a leader to bring them home someday. long silence. ireena asks: does he truly see no other way? ismark: it's her choice but after losing father he can't bear the thought of losing her too. another long silence. ireena breaks it, voice fragile and quiet: she'll go, if only for him. but on one condition. next words are too low to hear.
+
+After that, they return, with eyes red from tears held back. He says they were discussing how much to pay us (this is a lie), offers us 80g. He also asks us: can we depart tomorrow morning? he wants to bury his father properly first. q: we were planning to leave tmrw morning anyway. oliver: if they need a priest... ismark: they have a priest here, [Father Donavich](NPCs/Father%20Donavich.md). ireena: do we have somewhere to stay? q: we booked rooms at the blood&vine tavern. we say our goodbyes, until tomorrow morning. we leave.
+
+we discuss what supplies we might need. food: covered. we should also get camping gear, just in case.
+
+town square is pretty empty, except for an old chipped statue of a man in leather armor wielding a sword.
+
+things to do today:
+- areia is getting "old faithful" out of storage, takes a day.
+- get some tents, and camping equipment
+
+we go to the shop, Bildrath's Mercantile. nice shop, out-of-place rug. middle-aged man. we get two tents, and one of us brings up soap. Areia pays for it all.
+
+Jasper offers Quiyra a mind sharpener infusion; she accepts.
+
+it's getting late. We return to the tavern, have dinner together, and settle in for the night. Quiyra in her trance and the others in their dreams experience something strange. we see each other, in a dimly lit tent. seated across from us we see an old woman, her face concealed by the cowl on her cloak. She gestures for us to sit as well; we do. She bids us welcome, we may call her [Madam Eva](NPCs/Madam%20Eva.md). She's been expecting us. The winds of fate have brought us here, to this land. But they're winds of doom, not change. Shrouds of darkness descend on us. The lord knows we're here, and we're in his sight. He's a creature of eternal hunger and won't rest until he eats our souls. But there is hope yet, she can see a twisting path for us. We are to visit her in her tent in the [Tser Pool](Places/Tser%20Pool.md) camp, so she can read our cards. Will we? We say yes.
+The light dims, as if a dark mist were descending. She twitches. It's Strahd, interfering. He mustn't know of this meeting. She casts us out of the dream-vision. It's still night outside, but there is a greenish glow. Oliver and Quiyra look outside: a ghostly procession, images of women with great swords, men with bows, dwarves with axes, mages with beards and pointy hats. many dozens of them, marching from probably-the-graveyard toward the outside of Barovia. Possibly towards castle ravenloft.
+We meet up, briefly discuss this. Quiyra grouses over how weird having a vision in trance is. Are the ghosts working for strahd, or going to fight him? We don't know. We finish our rests.
+## Day 1
+Early the next morning, the rest of the party wakes up and does their preparations. Quiyra was already downstairs, helping out the barkeeper [Arik](NPCs/Arik.md) with prep for the day in order to occupy herself.
+
+We go to the Kolyanovich house. Ismark is struggling with the coffin, can we help move it? yeah. Areia does most of the job, but we all help out. Ireena stands at the doorstep, not following. Some people we pass look in our direction, stopping what they're doing and bowing their heads. It doesn't take us too long to get to the church, as the village is quite small. This place too has seen better days. gray building of stone and wood, worn and weary. belltower rises from the back, flickering light shines through the holes and from the two small lanterns outside. the heavy wooden doors are covered in claw marks and scarred by fire. Ismark knocks on the door, and we can hear the sound echo through the air. From the street, a voice shouts: "he won't come out!". A hulking young man steps forward, shaggy brown hair, crooked teeth, muscular but looks immature, almost like a child. "not since two weeks ago." ismark asks wimple what he means. the young man explains: he shut himself in since the siege began. he looks like he hasn't slept nor bathed since the siege began, two years ago. ismark thanks him for the info. we ponder how we might get in there, until ismark suggests the door could just be open. indeed it is.
+We leave the coffin on the porch and follow him in. The hall is unlit, the chapel brightly lit. As we enter, we hear a gentle prayer.
+
+[Father Donavich](NPCs/Father%20Donavich.md) stops, and says: "I cant offer the blessing you seek. Go and leave this cursed place alone." Oliver offers to do it instead, is he sick? the priest is confused. Ismark explains. Father Donovich stands up, says "My apologies. I would be glad to oversee a burial, but i cannot perform the rites that will sanctify the remains. It seems I have lost my powers." O: what happened? FD: "[my son](NPCs/Doru.md) set off for ravenloft, and I gave him my symbol to keep him safe. Two weeks ago when the undead came, my son came back, now a vampire." FD managed to lock him in the basement, but ever since, he hasn't felt the Morning Lord's presence. Maybe because Doru still has his symbol and the Devil's influence has corrupted his connection to the god? He must be destroyed. We naturally offer to take care of this.
+
+FD opens the trapdoor. we go into the basement, which is all bare earth held up by rotting wooden pillars, lit by some candlelight through the cracks in the floor above. we see a gaunt shape in the corner. we hear him saying: "you've come to kill me, haven't you?" we confirm. as we talk, he's spiderclimbing on the walls and the ceiling. O: "You've retained enough of yourself to speak?" Doru looks quite stressed, ghostly pale, dirt and grime everywhere. He swallows and licks his lips, and says: "if you want to kill me, I won't stop you. but I have one request first. I wants to prove to myself that I can control my hunger." He wants us to let him smell fresh blood. If he can stop himself for a full minute, he wants us to tell his father that his son was still alive until the end. If he can't, "please kill me". We acquiesce to this. Oliver pulls out a dagger and draws a little bit of blood from his forearm.
+
+Doru's muscles tense and he squeezes his eyes shut. his nostrils flare, a thin line of saliva draws itself from his lip. He shakily recites a mantra/prayer (insert here). He repeats Gertrude's name a few times. After what seems like an eternity, his body relaxes, his muscles uncoil. The strain fades from his face, and after a moment his eyes flutter open. Oliver approaches, recites a short prayer to Lathander and Kelemvor, and strikes him in the heart with his dagger coated in purple light. Doru doesn't resist the execution, but grabs onto Oliver's arm before his eyes close and his strength fades.
+
+We return upstairs, delivering Doru's last words and Donovich's holy symbol to him. He tears up, holding the symbol in a white-knuckle grip. He sobs, sinks to his knees, and begs the Morning Lord for what had to do and what he failed to do. He grips himself firmly and leads us outside, for the burial.
+
+We help Ismark carry the coffin again. We approach the already-dug grave, and slowly lower the coffin inside. Donovich prays to the Morning Lord, commending [Kolyan Antonovich](NPCs/Kolyan%20Antonovich.md) into his embrace. As he finishes, Ismark crouches over the burial site, kisses his hand, and places his hand on the coffin. Father Donovich casts a spell (it's gentle repose).
+
+At the conclusion, we hear a swarm of bats flying off into the distance. Father Donovich looks quite shocked by their presence. He looks at us all and says: "there is a superstition that young women with red hair often find ill luck with them. Where will Ireena go?" Ismark says we've been entrusted with taking her to the Church of St Andral. Donovich says she'll be safest at the abbey of ???. It's on the complete opposite side of Barovia, far west from here.
+
+Oliver asks FD whether he wants help burying his son, and gets ignored.
+
+Ismark is gripping his shovel very strongly, working out his emotions in the physical labor. We leave him there for the moment, and go back to the mansion. We knock on the door, and Ireena lets us in. She made us breakfast.
+
+We let her know where Ismark is, and ask how she's doing. She misses her father, but says they can't afford to drown in grief. We each have our fights and must keep on going, lest our loved ones' deaths mean nothing.
+She leaves us to breakfast while she makes final preparations. The breakfast is hot: porridge, bread, the usual. We chat over it.
+
+As we eat, Ismark returns. His hands are quite red.
+He knows little of what's out there. He *has* ventured outside, but never beyond the Illvis(?) crossroads.
+Q: does Ireena have camping gear? Ismark: yeah they're very prepared. Where is she btw? Q: upstairs, getting ready.

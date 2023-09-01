@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "f5d960d174c55294",
+    "type": "split",
+    "children": [
+      {
+        "id": "520405cec8b165c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ddeb66fde8ad76b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Gertruda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5d80905180d06ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ismark Kolyanovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba70bce160f9e8fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Jasper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a465acd829d17d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b266e860f2e97179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c8ae1a579bb9f19",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d18a7a4c9d8da2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e1d9442677f241e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b690f113cfccaba2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37741c8bfea326fc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fdadc3acb6a382f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e95028ed3d6e7b01",
+    "type": "split",
+    "children": [
+      {
+        "id": "423fa05ec0837beb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1499642db5f56c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f4a46f9796c484a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/session 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "357c4df8c77dabd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "491c5183aa724859",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/session 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a465acd829d17d10",
+  "lastOpenFiles": [
+    "PCs/Jasper.md",
+    "PCs/Areia Wick.md",
+    "Sessions/session 1.md",
+    "PCs/Oliver.md",
+    "NPCs/Father Donavich.md",
+    "Sessions",
+    "PCs/Quiyra Sheldrar.md",
+    "NPCs/Doru.md",
+    "PCs",
+    "Sessions/session 3.md",
+    "Sessions/session 2.md",
+    "Dates.md",
+    "NPCs/Madam Eva.md",
+    "NPCs/Ismark Kolyanovich.md",
+    "NPCs/Kolyan Antonovich.md",
+    "Places/Barovia Village.md",
+    "Places/Abbey of Saint Markovia.md",
+    "Places/Church of Saint Andral.md",
+    "Places/Vallaki.md",
+    "NPCs/Gertruda.md",
+    "Places/Tser Pool.md",
+    "Places",
+    "NPCs/Ireena Kolyana.md",
+    "elfhame druid token.png",
+    "NPCs"
+  ]
+}

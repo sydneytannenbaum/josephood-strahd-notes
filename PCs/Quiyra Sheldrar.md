@@ -1,0 +1,1 @@
+An elven druid from Suldanesselar, headed down a dark path before she came to Barovia.

@@ -1,0 +1,1 @@
+Located in [[Krezk]], far west.

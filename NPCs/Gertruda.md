@@ -1,0 +1,1 @@
+Disappeared from [[Barovia Village]] around +1d, probably to [[Castle Ravenloft]] in search of her boyfriend [[Doru]]. Her friend(?) [[Mary]] is quite distraught over this.
