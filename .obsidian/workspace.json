@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/session 3.md",
+                "file": "NPCs/Gertruda.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Barovia Village.md",
+                "file": "NPCs/Gertruda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Barovia Village.md",
+                "file": "NPCs/Gertruda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Barovia Village.md"
+                "file": "NPCs/Gertruda.md"
               }
             }
           }
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,11 +226,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c507c23fae81f5d6",
+  "active": "a465acd829d17d10",
   "lastOpenFiles": [
+    "NPCs/Mary.md",
+    "Places/Barovia Village.md",
+    "NPCs/Gertruda.md",
+    "Sessions/session 3.md",
     "NPCs/Arik.md",
     "Sessions/session 2.md",
-    "Sessions/session 3.md",
     "Places/Blood of the Vine.md",
     "PCs/Jasper.md",
     "Places/Tser Pool.md",
@@ -241,7 +243,6 @@
     "Places/Church of Saint Andral.md",
     "Places/Castle Ravenloft.md",
     "NPCs/Strahd von Zarovich.md",
-    "Places/Barovia Village.md",
     "Places/Abbey of Saint Markovia.md",
     "PCs/Quiyra Sheldrar.md",
     "PCs/Oliver.md",
@@ -249,7 +250,6 @@
     "NPCs/Madam Eva.md",
     "NPCs/Kolyan Antonovich.md",
     "NPCs/Ismark Kolyanovich.md",
-    "NPCs/Gertruda.md",
     "NPCs/Father Donavich.md",
     "NPCs/Doru.md",
     "Sessions",

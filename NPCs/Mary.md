@@ -1,0 +1,1 @@
+Lives in [Barovia Village](../Places/Barovia%20Village.md). Distraught over the disappearance of her daughter [Gertruda](Gertruda.md)

@@ -13,7 +13,7 @@ The home of:
  - [Father Donavich](../NPCs/Father%20Donavich.md)
  - [Doru](../NPCs/Doru.md)
  - [Gertruda](../NPCs/Gertruda.md)
- - [[Mary]]
+ - [Mary](../NPCs/Mary.md)
  - [[Bildrath]]
  - [[Parriwimple]]
  - [Arik](../NPCs/Arik.md) the barkeep
