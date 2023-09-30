@@ -178,8 +178,11 @@ false: eliza, ireena
 actually: half-true
 
 areia:
-when i was a kid, i started developing some strange abilities, not oft seen back gome. soon after, mama disappeared, dont quite know what happened there. i ended up getting into trouble, but this ended up being quite impactful on my life. because it is where i met my late wife. when i first saw Nem, I was head over heels, and because I was 16 and stupid, I immediately asked her out. And if I could meet her ???, she would accept, because she only dated people who were at the top. And I worked my ass off, and did. We got married for tax benefits, and then we got married for real. nd then, well, she died, and it was rough watching that occur.
-and that's the story of why some of my tattoos exist. because i didnt want any of the tattoos of what i once belonged to, and it was only fitting that i showed my love to her.
+when i was a kid, i started developing some strange abilities, not often seen back home. soon after, mama disappeared, I still don't quite know what happened to her.
+i ended up getting into trouble, but this ended up being quite impactful on my life. because it is where i met my late wife. when i first saw Nem, I was head over heels, and because I was 16 and stupid, I immediately asked her out.
+Nem did not reject me and instead told me that if I could be ranked at the top in training, she would accept and go out with me, because she only dated people who were at the top. And I worked my ass off, and did that.
+We got married for tax benefits, and then we got married for real. and then, well, she died, and it was rough watching that occur.
+and that's the story of why some of my tattoos exist. because i didn't want any of the tattoos of what i once belonged to, and it was only fitting that i showed that I loved her more than I feared them. 
 truth: quiyra
 halftrue: jasper, ireena
 false: eliza, arturi, stanim
