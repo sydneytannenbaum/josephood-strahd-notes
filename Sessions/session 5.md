@@ -45,7 +45,7 @@ slowly she draws 3 cards, face down, separately.
 leftmost card: cerulean blue
 history. knowledge of the ancients will help us understand our enemy.
 The Torturer, 9 of swords. a scowling, bearded man clad in leather and a spike-tipped hood. callous, gnarled hands turn the wheel of a grim device.
-there is a town where all is not well. there, we will find a house of corruption, and withi, a dark room full of ?stale ghosts?
+there is a town where all is not well. there, we will find a house of corruption, and within, a dark room full of ?stale ghosts?
 
 second card, the top: cheery yellow
 a powerful force for good&protection. a holy symbol of great hope.
