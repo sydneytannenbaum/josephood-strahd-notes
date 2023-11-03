@@ -149,10 +149,10 @@ The calmer man takes us outside, presenting us with a chalice of wine - which we
 
 A longtime member of the encampment gave alexei (floor boy) some wine, and had vanished when alexei awoke.
 
-calm man (Luvash) led the search with >12 vistani, nearly as many of the dusk elves. coudnlt find her, but Savid (one of the dusk elves) found the decapitated body of the vanished guy, near the Luna river surrounded by signs of a fight. Also found a strange signet ring, which he gave to Casimir (the leader of the dusk elves, a scholar, hoping he could identify it). The symbol: Casimir can show us. A sort of triangle with lots of lines.
+calm man (Arrigel) led the search with >12 vistani, nearly as many of the dusk elves. coudnlt find her, but Savid (one of the dusk elves) found the decapitated body of the vanished guy, near the Luna river surrounded by signs of a fight. Also found a strange signet ring, which he gave to Casimir (the leader of the dusk elves, a scholar, hoping he could identify it). The symbol: Casimir can show us. A sort of triangle with lots of lines.
 He has a lead: the baron of vallaki has quite the impressive library. could probably ID the signet ring with access to the library. Ireena is our best shot at getting (legit) access, those of us who aren't Areia can read.
 
-Arabell disappeared three (!) days ago. Quiyra points out that she's probably dead; he says they'd still want her body rather than nothing, then. He suggests we speak to Casimir; we do. He's in the house we passed. Luvash mentions that Arabell is his niece.
+Arabell disappeared three (!) days ago. Quiyra points out that she's probably dead; he says they'd still want her body rather than nothing, then. He suggests we speak to Casimir; we do. He's in the house we passed. Arrigel mentions that Arabell is his niece.
 
 Quiyra gives him the gift for safekeeping, also explaining that Madam Eva sent it (and us). He takes it reverently and puts it away in his wagon.
 
