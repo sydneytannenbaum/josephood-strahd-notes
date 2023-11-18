@@ -46,7 +46,7 @@ Appearing from the fog are two dire wolves, snarling and blocking our escape pat
 
 Ireena averts her eyes from the man's gaze, and she chokes out: "don't look into his eyes!" He briefly looks at Ireena, and smiles coldly.
 
-he introduces himself, he's strahd. pleasure to meet him. his friends have told him much about us. the wonderful job we've done at the house. feeling from his eyes: a butcher looking at an intriguing but inanimate cut of meat, predator looking at prey. he's introducing himself as lord of this domain, it would be quite rude not to! he gives us the shallowest of bows. He informs areia her kind isn't common around here, she'll find some eyes on her. She replies "please do! ;)", and he seems amused.
+he introduces himself, he's strahd. pleasure to meet him. his friends have told him much about us. the wonderful job we've done at the house. feeling from his eyes: a butcher looking at an intriguing but inanimate cut of meat, predator looking at prey. he's introducing himself as lord of this domain, it would be quite rude not to! he gives us the shallowest of bows. He informs areia her kind isn't common around here, she'll find some eyes on her. She replies "I always do! ;)", and he seems amused.
 
 He notes our escape from death house. Q asks if the basket was from him: of course! though he didn't deliver it personally.
 
